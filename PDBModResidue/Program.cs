@@ -225,7 +225,7 @@ namespace PDBModResidue
                 WriteConsoleAndLogFile("Process done.");
                 WriteConsoleAndLogFile("===========================================================");
                 WriteConsoleAndLogFile("PDB file modify the Residue sector");
-                WriteConsoleAndLogFile("Power by Nay");
+                WriteConsoleAndLogFile("Power by Mailer");
                 WriteConsoleAndLogFile("Version 1.0.0 Copry Rigth 19/04/2022");
                 WriteConsoleAndLogFile("===========================================================");
             }
