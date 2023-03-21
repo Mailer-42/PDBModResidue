@@ -1,0 +1,7 @@
+D:\Project\PDBModResidue\PDBModResidue\bin\Debug\PDBModResidue.exe.config
+D:\Project\PDBModResidue\PDBModResidue\bin\Debug\PDBModResidue.exe
+D:\Project\PDBModResidue\PDBModResidue\bin\Debug\PDBModResidue.pdb
+D:\Project\PDBModResidue\PDBModResidue\obj\Debug\PDBModResidue.csprojAssemblyReference.cache
+D:\Project\PDBModResidue\PDBModResidue\obj\Debug\PDBModResidue.csproj.CoreCompileInputs.cache
+D:\Project\PDBModResidue\PDBModResidue\obj\Debug\PDBModResidue.exe
+D:\Project\PDBModResidue\PDBModResidue\obj\Debug\PDBModResidue.pdb
